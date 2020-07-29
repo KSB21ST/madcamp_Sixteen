@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sixteen</string>
+    <string name="facebook_app_id">365164224449105</string>
+    <string name="fb_login_protocol_scheme">fb365164224449105</string>
+
+    <string-array name="MBTI">
+        <item>INFP</item>
+        <item>ENFP</item>
+        <item>INFJ</item>
+        <item>ENFJ</item>
+        <item>INTJ</item>
+        <item>ENTJ</item>
+        <item>INTP</item>
+        <item>ENTP</item>
+        <item>ISFP</item>
+        <item>ESFP</item>
+        <item>ISTP</item>
+        <item>ESTP</item>
+        <item>ISFJ</item>
+        <item>ESFJ</item>
+        <item>ISTJ</item>
+        <item>ESTJ</item>
+    </string-array>
+</resources>
